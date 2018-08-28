@@ -1,0 +1,121 @@
+
+
+h1
+{
+font-size: 70px;
+font-style: italic;
+font-family: "Herculanum";
+color: white;
+text-align: center;
+}
+
+
+
+
+.navbar
+{
+display: inline-block;
+float: right;
+color: white;
+padding: 5px 20px;
+font-family: "Roboto", sans-serif;
+font-size: 15px;
+}
+.logo img
+{
+	width: 150px;
+	height: auto;
+	float: left;
+}
+body
+{
+background-image: url("../image/pic2.jpg");
+background-size: cover;
+height: 100vh;
+background-position: center; 
+
+}
+#main{
+color: yellow;
+padding: 40px;
+}
+h2
+{
+padding: 25px;
+text-align: center;
+font-size: 30px;
+color: red;
+}
+h3
+{
+padding: 25px;
+text-align: center;
+font-size: 30px;
+}
+h4{
+padding: 50px 25px 25px 25px;
+text-align: center;
+font-size: 30px;
+}
+h5{
+padding: 25px;
+text-align: center;
+font-size: 30px;
+}
+h6{
+padding: 50px 25px 25px 25px;
+text-align: center;
+font-size: 30px;
+}
+
+.contact{
+list-style-type: none;
+text-align: right;
+}
+#footer{
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+text-align: center;
+color: white;
+background-color: grey;
+}
+p{
+text-align: center;
+padding-top: 10px;
+}
+#table1{
+
+text-align: center;
+}
+#table1 tr, #table1 td{
+width:50px;
+height:50px;
+}
+.table2{
+border: 1px solid white;}
+.table2 tr,.table2 td{
+width: 50px;
+height: 30px;
+text-align: center;
+border: 1px solid white;
+}
+table{
+margin: auto;
+}
+.table3{
+border: 1px solid white;}
+.table3 tr td{
+width:100px;
+height:30px;
+text-align: center;
+border: 1px solid white;
+
+}
+
+.picture {
+width:400px;
+height:300px;
+}
+
